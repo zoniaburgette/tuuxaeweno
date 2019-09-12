@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohpooyiev.serbad.info/sitemap.xml
